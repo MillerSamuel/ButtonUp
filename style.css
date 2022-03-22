@@ -1,0 +1,27 @@
+#search{
+	border: 1px solid;
+	border-radius: 100px;
+	border-color: rgb(3, 194, 194);
+	background-color: rgb(231, 227, 227);
+	color: rgb(3, 194, 194);
+	width: 100px;
+	height: 20px;
+}
+#plus{
+	border: 1px solid rgb(3, 194, 194);
+	border-radius: 50%;
+	background-color: rgb(3, 194, 194);
+	color: white;
+	margin: 20px 0px;
+	width: 30px;
+	height: 30px;
+	font-size: 20px;
+	;
+	
+}
+#account{
+	background-color: blue;
+	color: white;
+	border: 2px solid black;
+	box-shadow: 2px 2px black;
+}
